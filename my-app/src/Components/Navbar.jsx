@@ -42,7 +42,7 @@ const Navbar = ({ toggleMenu, toggleTheme }) => {
 
                     {/* text */}
                     <div className="flex flex-col ml-10">
-                        <h1 className="text-yellow-300 font-bold text-xl ">Liam Michael aa</h1>
+                        <h1 className="text-yellow-300 font-bold text-xl ">Liam Michael</h1>
                         <h2 className="text-yellow-300 flex justify-end text-xl font-bold">Action</h2>
                     </div>
 
