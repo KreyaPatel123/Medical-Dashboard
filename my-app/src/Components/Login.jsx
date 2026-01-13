@@ -178,7 +178,7 @@ const Login = () => {
           <div className="flex flex-row items-center justify-between">
             <div className="mt-6">
               <p className="font-bold text-gray-400 justify-center items-center flex">
-                Need an account? che Need
+                Need an account? 
                 <a href="#" className="text-blue-700">
                   Sign up
                 </a>
