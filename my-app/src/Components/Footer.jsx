@@ -30,7 +30,7 @@ export default function Footer() {
         <div>
           <h3 className="font-semibold mb-3">Contact Us</h3>
           <div className="text-sm space-y-2">
-            <p className="flex items-center gap-2"><FaPhoneAlt /> +91 98765 43210</p>
+            <p className="flex items-center gap-2"><FaPhoneAlt /> +91 98765 43210 000</p>
             <p className="flex items-center gap-2"><FaEnvelope /> support@medicare.com</p>
           </div>
           <div className="flex space-x-4 mt-4 text-blue-600">
