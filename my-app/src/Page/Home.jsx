@@ -148,8 +148,8 @@ const Home = () => {
                             <p className={`${currentTheme.headingColor} font-bold text-4xl mb-10`}>$20,250</p>
                             <div className="flex flex-row items-center ">
                                 <MdArrowOutward className="w-6 h-6 mr-2 text-green-600" />
-                                <p className="text-xl text-green-600 font-bold">30% </p>
-                                <span className="text-[15px] font-bold text-gray-600 m-2">VS</span>
+                                <p className="text-xl text-green-600 font-bold">lastmonth</p>
+                                <span className="text-[15px] font-bold text-gray-600 m-2">last month</span>
                                 <p className="text-[20px] text-gray-600 ">last month</p>
                             </div>
                         </div>
